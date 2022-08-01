@@ -50,7 +50,7 @@ class music(commands.Cog):
             ctx.send(embed=em)
 
             self._queue.pop(0)
-            self.vc.play(discord.FFmpegPCMAudio(source=url, executable="C:/ffmpeg", **self.FFMPEG_OPTIONS), after=lambda e: self.play_next(ctx))
+            self.vc.play(discord.FFmpegPCMAudio(source=url, **self.FFMPEG_OPTIONS), after=lambda e: self.play_next(ctx))
         else:
             self.is_playing = False
 
@@ -71,7 +71,7 @@ class music(commands.Cog):
             await ctx.send(embed=em)
 
             self._queue.pop(0)
-            self.vc.play(discord.FFmpegPCMAudio(source=url, executable="C:/ffmpeg", **self.FFMPEG_OPTIONS), after=lambda e: self.play_next(ctx))
+            self.vc.play(discord.FFmpegPCMAudio(source=url, **self.FFMPEG_OPTIONS), after=lambda e: self.play_next(ctx))
         else:
             self.is_playing = False
 
