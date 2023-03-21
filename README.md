@@ -33,12 +33,12 @@ In this case I used an enviroment variable because I was going to make this a pu
 
 ⚠️ Note: Never commit or share your token or api keys publicly ⚠️  
 
-## 📝 Features & Commands
-🎶 Play music from YouTube via url
+## 📝 Features & Commands  
+🎶 Play music from YouTube via url  
 ```-p https://www.youtube.com/watch?v=GLvohMXgcBo```
 
-🔎 Play music from YouTube via search query
--p tengen toppa opening 1
+🔎 Play music from YouTube via search query  
+```-p tengen toppa opening 1```
 
 Join (-join)  
 Leave (-leave)  
@@ -52,6 +52,6 @@ Show Discord Bot ping (-ping)
 Shuffle queue (-shuffle)  
 Clear queue (-clear)  
 
-[todo] Loop  
+>[todo] Loop  
 [todo] Lyrics  
 [todo] Volume  
