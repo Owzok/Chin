@@ -1,13 +1,13 @@
 <p align="center"><img src="https://imgur.com/ZUoZOIu.png " width=400></p>  
 
-# 🎵 Chinchinator3000 ( Discord Music Bot )
+# 🎵 Chinchinator3000 ( Discord Music Bot ) ![a](https://img.shields.io/badge/python-3-blue) ![s](https://img.shields.io/badge/repo%20size-8%20Kb-yellow)
 > Chinchinator is a Discord Music Bot built with Python & uses Command Handler from [discord.py guide](https://discordpy.readthedocs.io/en/stable/).
 
 ## Too lazy to set up the bot ? 
 > Make my bot join your server !  
 https://discord.com/api/oauth2/authorize?client_id=887881573297451011&permissions=4331689984&scope=bot
 
-## Requirements
+## Requirements ![a](https://img.shields.io/badge/pip-v1.3-red)
 1. Discord Bot Token [Guide](https://www.pythondiscord.com/pages/guides/python-guides/discordpy/)  
 1.1. Enable 'Message Content Intent' in Discord Developer Portal    
 2. Python3  
