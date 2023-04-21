@@ -1,6 +1,6 @@
 <p align="center"><img src="https://imgur.com/ZUoZOIu.png " width=400></p>  
 
-# 🎵 Chinchinator3000 ( Discord Music Bot ) ![a](https://img.shields.io/badge/python-3-blue) ![s](https://img.shields.io/badge/repo%20size-8%20Kb-yellow)
+# 🎵 Chin ( Discord Music Bot ) ![a](https://img.shields.io/badge/python-3-blue) ![s](https://img.shields.io/badge/repo%20size-8%20Kb-yellow)
 > Chinchinator is a Discord Music Bot built with Python & uses Command Handler from [discord.py guide](https://discordpy.readthedocs.io/en/stable/).
 
 ## Too lazy to set up the bot ? 
