@@ -1,7 +1,21 @@
-<p align="center"><img src="https://imgur.com/ZUoZOIu.png " width=400></p>  
+<br>
+<p align="center">
+    <img src="./chin.png" alt='Logo' width=100>
 
-# 🎵 Chin ( Discord Music Bot ) ![a](https://img.shields.io/badge/python-3-blue) ![s](https://img.shields.io/badge/repo%20size-8%20Kb-yellow)
-> Chinchinator is a Discord Music Bot built with Python & uses Command Handler from [discord.py guide](https://discordpy.readthedocs.io/en/stable/).
+<h3 align="center">Chin ( Discord Music Bot )</h3>
+
+<p align="center">
+    Chinchinator is a Discord Music Bot built with Python & uses Command Handler from [discord.py guide](https://discordpy.readthedocs.io/en/stable/).
+</p>
+
+#
+<p align="center"
+
+![ga](https://img.shields.io/badge/Python-3.6-blue?style=for-the-badge&logo=)
+![si](https://img.shields.io/badge/Academical%20Project-No-red?style=for-the-badge&logo=) 
+![si](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=)
+![si](https://img.shields.io/badge/Repo%20Size-8Kb-yellow?style=for-the-badge&logo=)
+<p align="center">
 
 ## Too lazy to set up the bot ? 
 > Make my bot join your server !  
